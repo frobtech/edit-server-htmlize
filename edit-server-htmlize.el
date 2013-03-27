@@ -5,6 +5,8 @@
 ;; Author: Roland McGrath <roland@hack.frob.com>
 ;; Maintainer: Roland McGrath <roland@hack.frob.com>
 ;; Version: 0.4
+;; URL: https://github.com/frobtech/edit-server-htmlize
+;; Package-Requires: ((edit-server "1.9"))
 
 ;; This file is not part of GNU Emacs.
 
